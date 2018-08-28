@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlass
 x-kinRank: "8"
 x-alexaRank: "1656"
 tags: Modules
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/apis.md
 specificationVersion: "0.14"
 apis:
@@ -572,6 +572,230 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-openapi.md
+- name: Stride API - Delete a chat:webhook module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatwebhookkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-openapi.md
+- name: Stride API - Create or update a chat:webhook module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatwebhookkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-put-openapi.md
+- name: Stride API - Delete a chat:sidebar module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatsidebarkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-delete-openapi.md
+- name: Stride API - Create or update a chat:sidebar module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatsidebarkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-put-openapi.md
+- name: Stride API - Delete a chat:glance module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatglancekey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-delete-openapi.md
+- name: Stride API - Create or update a chat:glance module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatglancekey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-put-openapi.md
+- name: Stride API - Delete a chat:externalPage module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatexternalpagekey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-delete-openapi.md
+- name: Stride API - Create or update a chat:externalPage module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatexternalpagekey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-put-openapi.md
+- name: Stride API - Delete a chat:dialog module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatdialogkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-delete-openapi.md
+- name: Stride API - Create or update a chat:dialog module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatdialogkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-put-openapi.md
+- name: Stride API - Delete a chat:bot:messages module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotmessageskey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-delete-openapi.md
+- name: Stride API - Create or update a chat:bot:messages module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotmessageskey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-put-openapi.md
+- name: Stride API - Delete a chat:bot module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-delete-openapi.md
+- name: Stride API - Create or update a chat:bot module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-put-openapi.md
+- name: Stride API - Delete a chat:actionTarget module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatactiontargetkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-delete-openapi.md
+- name: Stride API - Create or update a chat:actionTarget module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatactiontargetkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-put-openapi.md
 - name: Stride API - Get a list of chat:actionTarget modules
   x-api-slug: sitecloudidconversationconversationidappmodulechatactiontarget-get
   description: Authentication required, with scope participate:conversation
@@ -1132,6 +1356,440 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-openapi.md
+- name: Stride API - Delete a chat:webhook module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatwebhookkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-delete-openapi.md
+- name: Stride API - Create or update a chat:webhook module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatwebhookkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-put-openapi.md
+- name: Stride API - Create or update a chat:webhook module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatwebhookkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatwebhookkey-put-openapi.md
+- name: Stride API - Delete a chat:sidebar module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatsidebarkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-delete-openapi.md
+- name: Stride API - Delete a chat:sidebar module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatsidebarkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-delete-openapi.md
+- name: Stride API - Create or update a chat:sidebar module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatsidebarkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-put-openapi.md
+- name: Stride API - Create or update a chat:sidebar module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatsidebarkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatsidebarkey-put-openapi.md
+- name: Stride API - Delete a chat:glance module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatglancekey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-delete-openapi.md
+- name: Stride API - Delete a chat:glance module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatglancekey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-delete-openapi.md
+- name: Stride API - Create or update a chat:glance module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatglancekey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-put-openapi.md
+- name: Stride API - Create or update a chat:glance module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatglancekey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatglancekey-put-openapi.md
+- name: Stride API - Delete a chat:externalPage module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatexternalpagekey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-delete-openapi.md
+- name: Stride API - Delete a chat:externalPage module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatexternalpagekey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-delete-openapi.md
+- name: Stride API - Create or update a chat:externalPage module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatexternalpagekey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-put-openapi.md
+- name: Stride API - Create or update a chat:externalPage module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatexternalpagekey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatexternalpagekey-put-openapi.md
+- name: Stride API - Delete a chat:dialog module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatdialogkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-delete-openapi.md
+- name: Stride API - Delete a chat:dialog module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatdialogkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-delete-openapi.md
+- name: Stride API - Create or update a chat:dialog module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatdialogkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-put-openapi.md
+- name: Stride API - Create or update a chat:dialog module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatdialogkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatdialogkey-put-openapi.md
+- name: Stride API - Delete a chat:bot:messages module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotmessageskey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-delete-openapi.md
+- name: Stride API - Delete a chat:bot:messages module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotmessageskey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-delete-openapi.md
+- name: Stride API - Create or update a chat:bot:messages module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotmessageskey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-put-openapi.md
+- name: Stride API - Create or update a chat:bot:messages module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotmessageskey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotmessageskey-put-openapi.md
+- name: Stride API - Delete a chat:bot module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-delete-openapi.md
+- name: Stride API - Delete a chat:bot module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-delete-openapi.md
+- name: Stride API - Create or update a chat:bot module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-put-openapi.md
+- name: Stride API - Create or update a chat:bot module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatbotkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatbotkey-put-openapi.md
+- name: Stride API - Delete a chat:actionTarget module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatactiontargetkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-delete-openapi.md
+- name: Stride API - Delete a chat:actionTarget module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatactiontargetkey-delete
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-delete-openapi.md
+- name: Stride API - Create or update a chat:actionTarget module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatactiontargetkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-put-openapi.md
+- name: Stride API - Create or update a chat:actionTarget module
+  x-api-slug: sitecloudidconversationconversationidappmodulechatactiontargetkey-put
+  description: Authentication required, with scope participate:conversation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/atlassian/sitecloudidconversationconversationidappmodulechatactiontargetkey-put-openapi.md
 x-common:
 - type: x-openapi
   url: https://developer.atlassian.com/cloud/jira/platform/swagger.v3.json

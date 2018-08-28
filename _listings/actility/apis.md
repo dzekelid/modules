@@ -7,11 +7,176 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-acti
 x-kinRank: "7"
 x-alexaRank: "637591"
 tags: Modules
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: ThingPark DX Location API - Module configurations retrieval
+  x-api-slug: moduleconfigs-get
+  description: Retrieves the list of existing module configurations.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigs-get-openapi.md
+- name: ThingPark DX Location API - Module configuration creation
+  x-api-slug: moduleconfigs-post
+  description: Creates a new module configuration.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigs-post-openapi.md
+- name: ThingPark DX Location API - Module configuration retrieval
+  x-api-slug: moduleconfigsmoduleconfigref-get
+  description: Retrieves the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-get-openapi.md
+- name: ThingPark DX Location API - Module configuration update
+  x-api-slug: moduleconfigsmoduleconfigref-put
+  description: Updates the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-put-openapi.md
+- name: ThingPark DX Location API - Module configuration deletion
+  x-api-slug: moduleconfigsmoduleconfigref-delete
+  description: Deletes the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-delete-openapi.md
+- name: ThingPark DX Location API - Module configurations retrieval
+  x-api-slug: moduleconfigs-get
+  description: Retrieves the list of existing module configurations.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigs-get-openapi.md
+- name: ThingPark DX Location API - Module configuration creation
+  x-api-slug: moduleconfigs-post
+  description: Creates a new module configuration.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigs-post-openapi.md
+- name: ThingPark DX Location API - Module configuration retrieval
+  x-api-slug: moduleconfigsmoduleconfigref-get
+  description: Retrieves the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-get-openapi.md
+- name: ThingPark DX Location API - Module configuration update
+  x-api-slug: moduleconfigsmoduleconfigref-put
+  description: Updates the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-put-openapi.md
+- name: ThingPark DX Location API - Module configuration deletion
+  x-api-slug: moduleconfigsmoduleconfigref-delete
+  description: Deletes the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-delete-openapi.md
+- name: ThingPark DX Location API - Module configuration deletion
+  x-api-slug: moduleconfigsmoduleconfigref-delete
+  description: Deletes the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-delete-openapi.md
+- name: ThingPark DX Location API - Module configuration update
+  x-api-slug: moduleconfigsmoduleconfigref-put
+  description: Updates the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-put-openapi.md
+- name: ThingPark DX Location API - Module configuration retrieval
+  x-api-slug: moduleconfigsmoduleconfigref-get
+  description: Retrieves the module configuration corresponding to the provided ref.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigsmoduleconfigref-get-openapi.md
+- name: ThingPark DX Location API - Module configuration creation
+  x-api-slug: moduleconfigs-post
+  description: Creates a new module configuration.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigs-post-openapi.md
+- name: ThingPark DX Location API - Module configurations retrieval
+  x-api-slug: moduleconfigs-get
+  description: Retrieves the list of existing module configurations.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//location/v110
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/modules/master/_listings/actility/moduleconfigs-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.actility.com/blog/feed/
